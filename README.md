@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎I am student learning coding skills like java, web development, html with a passion for Science and Human Behaviour<br>👨‍💻I am currently learning **Web devlopment**<br>📝Ask me about **Java**<br>🎦I also Edit Videos for Hobby<br>📫How to reach me **jeetgate1011@gmail.com**<br>🎥Shoot me an email or add me on Linkedin :)
+😎I am student learning coding skills like java, web development, Python with a passion for Science and Human Behaviour<br>👨‍💻I am currently learning **Python**<br>📝Ask me about **Java, Python**<br>🎦I also Edit Videos for Hobby<br>📫How to reach me **jeetgate1011@gmail.com**<br>🎥Shoot me an email or add me on Linkedin :)
 
 
 ## 🌐 Socials:
